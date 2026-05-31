@@ -1,0 +1,2 @@
+# fakeclass
+Only Persian users
