@@ -5,13 +5,12 @@ Only Persian users
 </p>
 
 <h1 align="center">👻 ExamGhost</h1>
-<h3 align="center">ابزار خاموش انتقال فایل + مهندسی اجتماعی</h3>
+<h3 align="center">این ابزار + مهندسی اجتماعی=سوالای امتحان</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/نسخه-1.0.0-darkgreen?style=flat-square" alt="version">
-  <img src="https://img.shields.io/badge/پایتون-3.10+-blue?style=flat-square&logo=python" alt="python">
-  <img src="https://img.shields.io/badge/پلتفرم-Windows-red?style=flat-square&logo=windows" alt="platform">
-  <img src="https://img.shields.io/badge/استتار-حداکثر-black?style=flat-square" alt="stealth">
+  <img src="https://img.shields.io/badge/version-1.0.0-darkgreen?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python" alt="python">
+  <img src="https://img.shields.io/badge/Platform-Windows-red?style=flat-square&logo=windows" alt="platform">
 </p>
 
 ---
