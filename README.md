@@ -1,8 +1,6 @@
 # fakeclass
 Only Persian users
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thedidban/ExamGhost/main/assets/icon.png" alt="ExamGhost Icon" width="200"/>
-</p>
+
 
 <h1 align="center">👻 ExamGhost</h1>
 <h3 align="center">این ابزار + مهندسی اجتماعی=سوالای امتحان</h3>
